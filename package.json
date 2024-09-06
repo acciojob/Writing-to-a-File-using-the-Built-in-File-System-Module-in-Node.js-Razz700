@@ -1,5 +1,5 @@
 {
-  "name": "Writing-to-a-File-using-the-Built-in-File-System-Module-in-Node.js",
+  "name": "writing-to-a-file-using-the-built-in-file-system-module-in-node",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/acciojob/Writing-to-a-File-using-the-Built-in-File-System-Module-in-Node.js.git"
   },
-  "author": "",
+  "author": "razz",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/acciojob/Writing-to-a-File-using-the-Built-in-File-System-Module-in-Node.js/issues"
